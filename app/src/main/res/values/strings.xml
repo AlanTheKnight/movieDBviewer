@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TimetableApp</string>
+    <string name="classroom">Номер</string>
+    <string name="weekday">День недели:</string>
+    <string name="subject">Предмет</string>
+    <string name="number">Номер</string>
+    <string name="start">Начало</string>
+    <string name="end">Конец</string>
+
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="letters">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+    </string-array>
+
+    <string name="button_text">Show</string>
+</resources>
